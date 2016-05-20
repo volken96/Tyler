@@ -4,4 +4,4 @@ Citoyen du monde,  Arrêtons de vivre dans une illusions, nous vivons dans un sy
 
 NOTE 
 
-Les fichiers sont compressés, vous devez télécharger puis installer le logiciel WinRar depuis le liens : http://www.win-rar.com/ une fois installer, clique droit sur le fichier compresser puis extraire le fichier.
+Les fichiers sont compressés, vous devez télécharger puis installer le logiciel WinRar depuis le lien : http://www.win-rar.com/ une fois installer, clique droit sur le fichier compresser puis extraire le fichier.
